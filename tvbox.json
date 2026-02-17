@@ -4,10 +4,19 @@
       "key": "wushuiyin",
       "name": "无水印",
       "type": 0,
-      "api": "https://api.wsyzy.net/api.php/provide/vod/from/wsym3u8/at/xml/",
+      "api": "https://api.wsyzy.net/api.php/provide/vod/from/wsym3u8/at/xml",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
+    },
+    {
+      "key": "无水印",
+      "name": "无水印02",
+      "type": 1,
+      "api": "https://api.wsyzy.net/api.php/provide/vod/?ac=list",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
     },
     {
       "key": "yingju",
@@ -28,10 +37,37 @@
       "filterable": 0
     },
     {
+      "key": "豪华",
+      "name": "豪华",
+      "type": 0,
+      "api": "https://hhzyapi.com/api.php/provide/vod/from/hhm3u8/at/xml",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
       "key": "hongniu",
       "name": "红牛",
       "type": 0,
       "api": "https://www.hongniuzy2.com/api.php/provide/vod/at/xml/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
+      "key": "魔都",
+      "name": "魔都",
+      "type": 0,
+      "api": "https://www.mdzyapi.com/api.php/provide/vod/at/xml/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
+      "key": "huya",
+      "name": "虎牙",
+      "type": 0,
+      "api": "https://www.huyaapi.com/api.php/provide/vod/from/hym3u8/at/xml/",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0
@@ -44,6 +80,15 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0
+    },
+    {
+      "key": "jingying",
+      "name": "金鹰",
+      "type": 0,
+      "api": "https://jyzyapi.com/provide/vod/from/jinyingm3u8/at/xml/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
     },
     {
       "key": "黑料",
@@ -64,10 +109,10 @@
       "filterable": 0
     },
     {
-      "key": "aosika",
-      "name": "奥斯卡",
-      "type": 1,
-      "api": "https://aosikazy.com/api.php/provide/vod/?ac=list",
+      "key": "杏吧",
+      "name": "杏吧",
+      "type": 0,
+      "api": "https://xingba222.com/api.php/provide/vod/at/xml",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0
