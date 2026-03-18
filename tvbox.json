@@ -4,28 +4,19 @@
       "key": "wushuiyin",
       "name": "无水印",
       "type": 0,
-      "api": "https://api.wsyzy.net/api.php/provide/vod/from/wsym3u8/at/xml",
+      "api": "https://api.wsyzy.net/api.php/provide/vod/from/wsym3u8/at/xml/",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
     },
     {
-      "key": "无水印",
-      "name": "无水印02",
-      "type": 1,
-      "api": "https://api.wsyzy.net/api.php/provide/vod/?ac=list",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0
-    },
-    {
       "key": "yingju",
       "name": "影剧",
       "type": 1,
-      "api": "https://caiji.maotaizy.cc/api.php/provide/vod/from/mtm3u8/at/josn/",
+      "api": "https://caiji.maotaizy.cc/api.php/provide/vod/at/josn/",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 0
+      "filterable": 1
     },
     {
       "key": "guangsu",
@@ -34,13 +25,13 @@
       "api": "https://api.guangsuapi.com/api.php/provide/vod/at/xml/",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 0
+      "filterable": 1
     },
     {
-      "key": "豪华",
-      "name": "豪华",
+      "key": "aiqiyi",
+      "name": "爱奇艺",
       "type": 0,
-      "api": "https://hhzyapi.com/api.php/provide/vod/from/hhm3u8/at/xml",
+      "api": "https://www.iqiyizyapi.com/api.php/provide/vod/at/xml/",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -48,14 +39,14 @@
     {
       "key": "hongniu",
       "name": "红牛",
-      "type": 0,
-      "api": "https://www.hongniuzy2.com/api.php/provide/vod/at/xml/",
+      "type": 1,
+      "api": "https://caiji.maotaizy.cc/api.php/provide/vod/at/josn/",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 0
+      "filterable": 1
     },
     {
-      "key": "魔都",
+      "key": "modu",
       "name": "魔都",
       "type": 0,
       "api": "https://www.mdzyapi.com/api.php/provide/vod/at/xml/",
@@ -66,11 +57,11 @@
     {
       "key": "huya",
       "name": "虎牙",
-      "type": 0,
-      "api": "https://www.huyaapi.com/api.php/provide/vod/from/hym3u8/at/xml/",
+      "type": 1,
+      "api": "https://www.huyaapi.com/api.php/provide/vod/at/json",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 0
+      "filterable": 1
     },
     {
       "key": "maotai",
@@ -91,7 +82,7 @@
       "filterable": 1
     },
     {
-      "key": "黑料",
+      "key": "heiliao",
       "name": "黑料",
       "type": 0,
       "api": "https://heiliaozyapi.com/api.php/provide/vod/at/xml",
@@ -100,22 +91,31 @@
       "filterable": 1
     },
     {
-      "key": "xing",
-      "name": "幸",
+      "key": "yutu",
+      "name": "玉兔",
       "type": 1,
-      "api": "https://xzybb1.com/api.php/provide/vod/?ac=list",
+      "api": "https://apiyutu.com/api.php/provide/vod/?ac=list",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 0
+      "filterable": 1
     },
     {
-      "key": "杏吧",
+      "key": "xingba",
       "name": "杏吧",
       "type": 0,
       "api": "https://xingba222.com/api.php/provide/vod/at/xml",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0
+    },
+    {
+      "key": "香奶",
+      "name": "香奶",
+      "type": 0,
+      "api": "https://naixxzy.com/api.php/provide/vod/at/xml/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
     }
   ],
   "lives": [
